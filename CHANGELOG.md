@@ -6620,6 +6620,7 @@ All notable changes to this project will be documented in this file.
 - *(readme)* Fix PrivateAlps sponsor wording
 - *(readme)* Remove Context.dev sponsor
 - *(readme)* Add Seibert Group sponsor
+- Update changelog
 
 ### ⚡ Performance
 
@@ -7534,6 +7535,7 @@ All notable changes to this project will be documented in this file.
 - Inspect staged modal changes
 - *(logs)* Simplify log viewer XSS tests
 - Täglicher Upstream-Sync (fork-sync, MasterModel.bd)
+- Fork-sync — eigene Workflows behalten (GITHUB_TOKEN-Fix)
 
 ### ◀️ Revert
 
